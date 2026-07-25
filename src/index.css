@@ -1,9 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
 
-/* La zone de rebond (overscroll) au-dessus et en dessous de la page peint le fond
-   de <html> : sans couleur explicite elle apparaissait blanche. */
+/* La zone de rebond (overscroll) peint le fond du canevas de la page, qui est
+   celui de <body> tant que <html> n'a pas son propre fond explicite (sinon le
+   fond de <body> cesse d'être "propagé" au canevas et se peint comme une boîte
+   normale, ce qui masque le contenu en z-index négatif de .home-section). */
 html {
-  background-color: rgb(20 15 35);
   overscroll-behavior: none;
 }
 
