@@ -11,24 +11,24 @@ function AboutCard() {
             Bonjour tous le monde, je suis <span className="purple">Arda TEMIZ </span>
             et je viens de <span className="purple"> Creil,</span> en <span className="purple">France</span>
             <br />
-            Je suis <span className="purple">développeur Full-Stack</span>, diplômé
+            Je suis <span className="purple">ingénieur Full-Stack</span>, diplômé
             d'un <span className="purple">BUT Informatique</span> à l'Université Sorbonne
             Paris Nord (IUT de Villetaneuse) et admis à
             l'<span className="purple">ESIEA</span> pour la rentrée 2026 en formation
             ingénieur en alternance.
             <br />
             <br />
-            J'ai passé <span className="purple">1 an en alternance chez Ingram MICRO</span> (Beauvais)
-            sur des applications internes critiques : refonte complète d'une application
-            métier d'alerting en <span className="purple">Angular / Java Spring Boot</span>,
-            conception d'<span className="purple">API REST sécurisées</span> (JWT, gestion des
-            rôles, traitement asynchrone) et automatisation des déploiements
-            (<span className="purple">CI/CD, Docker, Linux</span>).
+            J'ai passé <span className="purple">2 ans en alternance chez Ingram MICRO</span> (Beauvais)
+            sur des applications internes critiques, avec notamment une expérience dans
+            la <span className="purple">conception de pipelines de données</span>, le
+            traitement avec <span className="purple">Python et SQL</span>, la modélisation
+            de bases de données et le développement d'applications critiques.
             <br />
             <br />
             Je suis actuellement <span className="purple">à la recherche d'une alternance
-            pour 2026</span> afin d'approfondir mes compétences en architecture
-            logicielle et systèmes.
+            pour 2026</span> afin d'approfondir mes compétences sur{" "}
+            <span className="purple">Databricks, Azure / AWS et les architectures Big
+            Data</span> au sein d'une équipe Data.
             <br />
             <br />
             A part coder, voici les autres activités que j'aime bien pratiquer !

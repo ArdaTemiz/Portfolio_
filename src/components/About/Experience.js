@@ -13,7 +13,7 @@ function Experience() {
               <span className="purple">Ingram MICRO</span>, Beauvais
             </Card.Title>
             <Card.Subtitle style={{ paddingBottom: "15px" }}>
-              2024 – 2025 · 1 an en alternance · Angular / Java (Spring)
+              2023 – 2025 · 2 ans en alternance · Angular / Java (Spring)
             </Card.Subtitle>
             <ul>
               <li className="about-activity">
@@ -30,12 +30,12 @@ function Experience() {
                 (JWT, gestion des rôles, traitement asynchrone).
               </li>
               <li className="about-activity">
-                <ImPointRight /> Amélioration de la qualité logicielle : tests
-                unitaires, gestion des cas limites, stabilisation post-déploiement.
+                <ImPointRight /> Développement de traitements SQL, optimisation
+                de requêtes et participation à la qualité des données métiers.
               </li>
               <li className="about-activity">
-                <ImPointRight /> Travail en méthodologie agile, échanges avec le
-                métier et présentations fonctionnelles.
+                <ImPointRight /> Travail en méthodologie agile, Scrum, échanges
+                avec le métier et présentations fonctionnelles.
               </li>
             </ul>
           </Card.Body>

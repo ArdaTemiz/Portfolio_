@@ -21,34 +21,33 @@ function Home2() {
               <br />
               Je suis aujourd'hui
               <i>
-                <b className="purple"> développeur Full-Stack</b>
+                <b className="purple"> ingénieur Full-Stack</b>
               </i>
               , après un <b className="purple">BUT Informatique</b> et
-              <b className="purple"> 1 an d'alternance chez Ingram MICRO</b>, où j'ai
-              réalisé la refonte complète d'une application métier interne utilisée
-              par plusieurs équipes.
+              <b className="purple"> 2 ans d'alternance chez Ingram MICRO</b>, où j'ai
+              travaillé sur la conception de pipelines de données, le traitement avec
+              Python et SQL, et le développement d'applications internes critiques.
               <br />
               <br />
               Ma stack principale est&nbsp;
               <i>
-                <b className="purple">Angular</b> côté front et{" "}
-                <b className="purple">Java / Spring Boot</b> côté back
+                <b className="purple">Python</b>, <b className="purple">SQL</b> et{" "}
+                <b className="purple">DataBricks</b>
               </i>
-              , avec des <b className="purple">API REST sécurisées</b> (JWT, gestion des
-              rôles), du <b className="purple">PostgreSQL</b>, du{" "}
-              <b className="purple">Docker</b> et des déploiements automatisés en{" "}
-              <b className="purple">CI/CD</b> sur VPS Linux.
+              , avec de l'<b className="purple">Apache Spark</b>, du{" "}
+              <b className="purple">Amazon AWS</b>, du <b className="purple">PostgreSQL</b>{" "}
+              et du <b className="purple">Docker</b>.
               <br />
               <br />
               À côté, je continue d'explorer&nbsp;
               <i>
-                <b className="purple">React</b>, <b className="purple">Node.js</b> et{" "}
+                <b className="purple">Angular</b>, <b className="purple">Spring Boot</b> et{" "}
                 <b className="purple">l'IA / le Deep Learning</b>
               </i>
               &nbsp;à travers mes projets personnels, comme SmartFace ou mon Ticket
               Manager. Je recherche actuellement une
-              <b className="purple"> alternance pour 2026</b> dans le cadre de ma
-              formation ingénieur à l'ESIEA.
+              <b className="purple"> alternance pour 2026</b> au sein d'une équipe Data,
+              dans le cadre de ma formation ingénieur à l'ESIEA.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

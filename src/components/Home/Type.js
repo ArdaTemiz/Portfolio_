@@ -7,9 +7,9 @@ function Type() {
       options={{
         strings: [
           "Data Engineer",
-          "Développeur Full-Stack",
-          "Angular / Java Spring Boot",
-          "1 an d'alternance chez Ingram MICRO",
+          "Ingénieur Full-Stack",
+          "Python / SQL / DataBricks",
+          "2 ans d'alternance chez Ingram MICRO",
           "En recherche d'alternance 2026",
         ],
         autoStart: true,

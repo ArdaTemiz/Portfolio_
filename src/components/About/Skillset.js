@@ -4,11 +4,11 @@ import { Card, Col, Row } from "react-bootstrap";
 const skills = [
   {
     title: "Stack principale",
-    items: "Angular • Java / Spring Boot • API REST • PostgreSQL • Docker • CI/CD • Linux • Git",
+    items: "Python • SQL • DataBricks • Amazon AWS • Apache Spark • PostgreSQL • Docker • Git",
   },
   {
     title: "Langages",
-    items: "Java • TypeScript • JavaScript • Python • SQL • PHP • C • HTML5 • CSS3",
+    items: "Python • SQL • Java • TypeScript • JavaScript • PHP • C • HTML5 • CSS3",
   },
   {
     title: "Développement Frontend",

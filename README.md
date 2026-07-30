@@ -1,7 +1,7 @@
 # Portfolio — Arda TEMIZ
 
-Portfolio personnel présentant mon profil de développeur Full-Stack, mes
-compétences, mes projets et mon CV.
+Portfolio personnel présentant mon profil de Data Engineer / ingénieur
+Full-Stack, mes compétences, mes projets et mon CV.
 
 🔗 [arda-temiz-portfolio.vercel.app](https://arda-temiz-portfolio.vercel.app)
 
