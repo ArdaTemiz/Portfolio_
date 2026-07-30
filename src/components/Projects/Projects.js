@@ -10,6 +10,7 @@ import smartface from "../../Assets/Projects/smartface.png";
 import ticketmanager from "../../Assets/Projects/ticketmanager.png";
 import chatbot from "../../Assets/Projects/chatbot.png";
 import rapportChatbot from "../../Assets/Rapport_ChatbotAutomobile.pdf";
+import gemcreil from "../../Assets/Projects/gemcreil.png";
 
 function Projects() {
   return (
@@ -23,6 +24,19 @@ function Projects() {
           Quelques projets auxquels j'ai travaillé ces derniers temps.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={gemcreil}
+              isBlog={false}
+              title="GEM Creil"
+              description="Site vitrine officiel de GEM Creil, une association qui propose rencontres, activités et accompagnement aux jeunes de Creil.
+              Développé en Next.js 14 (App Router) et TypeScript, avec Tailwind CSS, Framer Motion, React Hook Form + Zod pour les formulaires, et une intégration Stripe pour les dons.
+              Tout le contenu du site (textes, chiffres, activités) est éditable sans toucher au code, via des fichiers de données dédiés."
+              ghLink="https://github.com/ArdaTemiz/gemcreil"
+              demoLink="https://gemcreil-two.vercel.app/"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={ticketmanager}
